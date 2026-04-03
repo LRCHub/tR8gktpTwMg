@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "あとがき",
+  "base_artist": "429",
+  "createdAt": "2026-04-03T06:55:20.892128Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あとがき",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/01_あとがき_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あとがき",
+      "artist": "青木陽菜",
+      "has_synced": true,
+      "path": "select/02_あとがき_青木陽菜.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あとがき",
+      "artist": "429",
+      "has_synced": false,
+      "path": "select/pl_01_あとがき_429.txt"
+    }
+  ]
+}
